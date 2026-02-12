@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.item {
+    display: none;
+}
+
+.item.amostra {
+    display: block;
+}
+
+.title {
+    font-size: 10rem;
+}
